@@ -47,14 +47,14 @@ This project focuses on predicting whether a student is likely to be placed or n
 
 ## 📂 Project Deliverables
 
-- Project Charter  
-- Software Requirements Specification (SRS)  
-- Project Plan  
-- RAID Log  
-- Development Log  
-- Lessons Learned  
-- Final Project Report  
-- Source Code and Notebooks  
+- App demo Video in .mp4 format (not more than 5 mins)​
+- Code (zip file & Github Link)​​
+- Work Breakdown Structure
+- Project Schedule
+- RAID Logs
+- Development Log
+- Lessons Learnt Log
+- Project Report
 
 ---
 
@@ -62,7 +62,6 @@ This project focuses on predicting whether a student is likely to be placed or n
 
 **Prathamesh Bawane**  
 Intern at Cloud Counselage Pvt. Ltd.  
-Internship Duration: 5th June 2024 – 31st August 2024  
 Domain: Machine Learning
 
 ---
